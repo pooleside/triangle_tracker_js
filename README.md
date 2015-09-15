@@ -1,4 +1,4 @@
-# _Leap Year (JavaScript)_
+# _Triangle Tracker (JavaScript)_
 
 ##### _Create an app to determine if you have a triangle._
 
